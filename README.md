@@ -1,1 +1,1 @@
-Exrcise Javascript - simple log in system
+Exercise Javascript - simple log in system
